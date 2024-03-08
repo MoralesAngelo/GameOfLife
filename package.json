@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "jest",
-    "text:dev": "jest --watchAll",
+    "text:dev": "jest --watchAll --coverage",
     "prepare": "husky"
   },
   "keywords": [
